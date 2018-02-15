@@ -3,5 +3,5 @@
 
 ## Intalling keymaps
 
-1. From the `distributions` folder, get the `.jar` file for the desired keymap.
-2. Choose **File | Import Settings...** from the menu and select the `[keymap].jar` file.
+1. In *releases*, get the `[keymap].jar` file for the desired keymap.
+2. In your IDE, choose **File | Import Settings...** from the menu and select the `[keymap].jar` file.
