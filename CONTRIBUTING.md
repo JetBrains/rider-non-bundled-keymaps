@@ -22,4 +22,4 @@ in this case it may be safe to leave the same shortuct assigned on several diffe
   * *Linux* `/home/user/RiderXX/config/keymaps`
 7. Use the modified keymap file to update the corresponding 
 [keymap file in the repository](https://github.com/JetBrains/rider-non-bundled-keymaps/tree/master/src).
-8. We will review you changes and add them to the next release of non-bundled keymaps.
+8. We will review your changes and add them to the next release of non-bundled keymaps.
